@@ -1,0 +1,11 @@
+ toc:
+    - title: course
+      subfolderitems:
+        - page: Student Onboarding
+          url: /onboarding
+        - page: Definiitions
+          url: /definitions
+        - page: Interview Skills
+          url: /interviews
+        - page: Job Search
+          url: /job-search

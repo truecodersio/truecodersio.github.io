@@ -1,7 +1,7 @@
 ---
 layout: page
-module: course
-order: 2
+title: Job Search
+permalink: /job-search
 ---
 
 ## Applying to Jobs

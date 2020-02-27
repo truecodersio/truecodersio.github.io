@@ -1,7 +1,7 @@
 ---
 layout: page
-module: course
-order: 1
+title: Definitions
+permalink: /definitions
 ---
 
 ## Acronyms

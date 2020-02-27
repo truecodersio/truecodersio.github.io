@@ -1,80 +1,39 @@
 ---
 layout: page
-title: "Welcome To TrueCoders!"
+title: Welcome to TrueCoders
 ---
-We're excited to have you as part of our course!
 
-## Pre Class
+## Our Mission
 
-In order to facilitate a smooth onboarding process, please follow these steps before you arrive at class on the first day.
+Our aim is to bridge the gap of tech talent in our community. We believe smart passionate people should always be engaged in doing what they love to do.
 
-### Google Classroom
+Our mission is to educate, elevate, and supply smart, passionate people with authentic coding skills to ensure they're capable of solving real-world programming problems.
 
-We use Google Classroom for general task and course assignment management. You will be sent an invite to join a Google Classroom specific to your course.
+## Our Team
 
-### Aptitude Test and Student Survey
+Our team is dedicated to ensuring that you:
 
-Even if you're already enrolled, we require all our students to take our aptitude test. We also have a survey for our students to take pre-class. You'll find these assignments waiting for you in Google Classroom.
+* Learn soft skills in order to work with people
+* Achieve hard, real world programming skills
+* Establish a process to elevate your career
+* Become the best developer you can become
 
-Please complete these assingments by their due dates.
+## Our Students
 
-### Accounts
+You're here because:
 
-During this course, you'll be using a few different online tools. Let's get some accounts setup:
+* You are interested in computers and programming
+* You want to pursue a career in software development
+* You are excited to learn new concepts and challenge yourself
+* You passed the Aptitude Test with flying colors
 
-* Create a [GitHub Account](https://github.com).
-* Create a [Codewars Account](https://www.codewars.com)
-* Set your Codewars Clan to (cAsE-sEnSiTiVe): `TrueCoders`.
-* Accept our invitation to our [Slack Account](https://truecodersio.slack.com/)
-* Create a [freeCodeCamp Account](https://www.freecodecamp.org/)
+This course will be intensive, diving into deep programming concepts. There will be times you want to give up.
 
-### freeCodeCamp
+But press on. Work hard. Put in the time. You'll get out what you put into this course. There is real victory for those who graduate from this course: You'll be employed as Developers!
 
-Our focus is on object oriented programming languages, like C# and Java. However, having some front end development knowledge can be key to rounding out your knowledge base.
+## Our Pledge
 
-Please complete as much of the [freeCodeCamp](https://www.freecodecamp.org/) Front End Development Certification, at least completing:
-
-* HTML5 and CSS Section
-* Responsive Design with Bootstrap Section
-
-### Lightweight Code Editor
-
-There are times where you will want to edit code without all the features of an IDE like Visual Studio.
-
-We recommend [Visual Studio Code](https://code.visualstudio.com), but there are other options like [Atom](https://atom.io).
-
-### Source Control
-
-During this course, you'll learn more about Source Control Management. For now, let's just install it so we have it for later.
-
-* Download and install [Git](https://git-scm.com) Source Control Management.
-* Download [SourceTree](https://www.sourcetreeapp.com), a Git GUI for Mac and Windows.
-
-## TrueCoders HQ
-
-Here's some information you may find useful regarding our headquarters:
-
-## Location
-
-TrueCoders HQ is located in Hoover at [2131 Data Office Dr Suite #235](https://goo.gl/maps/W7szPUppBhy)
-  * Parking is available in front of the building.
-
-![Sky View](../images/SkyView-Hoover.jpg "Sky View")
-
-## WiFi
-
-Here's our info on our WiFi access:
-
-* Network Name: "TrueCoders Wifi"
-* Password given upon request
-
-## Coffee Maker
-
-Our coffee maker works for making both single serve and full pots of coffee.
-
-**Important:** If you're making single serve coffee, only put in the water necessary for your cup. Any extra will overflow and spill.
-
-<!--
-![Parking Ramp](../images/parking-ramp.jpg "Parking Ramp")
-![Parking Scan](../images/parking-scan.jpg "Parking Scan")
--->
+> Coding is a craft and I pledge to perform it as such.\
+> I will make my character apparent to those who come behind me.\
+> My code will be ever simpler with a more refined purpose.\
+> I will leave code better than when I found it so that when I or others come back to it, it will not rob us of time, the most precious of things.
